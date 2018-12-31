@@ -7,7 +7,7 @@ var answer = true;      // Simple boolean variable
 
 // Naming
 var c = "http://www.amazon.com";  // Not ideal
-var caseNumber = 'CASE0010001';         // Reserved word!
+var case = 'CASE0010001';         // Reserved word!
 var lastEntryInTheListWithRelatedRecords = true; // a bit long?
 // personCount      // Indicates a counter/integer
 // personList       // Must be a list

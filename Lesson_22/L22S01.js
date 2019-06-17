@@ -4,6 +4,8 @@
 
 // Make a simple array
 //
+// Optional declaration, but not preferred:
+// var list = Array();
 var list = [];
 list[0] = 1;
 list[1] = 3;

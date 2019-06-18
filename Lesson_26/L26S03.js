@@ -6,3 +6,4 @@ var vehicle = {
   "make"  : "Toyota",
   "model" : "Sienna"
 };
+gs.info(vehicle['year'] + ' ' + vehicle['make'] +  ' ' + vehicle['model']);

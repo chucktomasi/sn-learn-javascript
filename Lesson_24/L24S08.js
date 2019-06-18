@@ -1,6 +1,13 @@
 //
-// L24S08 - Reverse the elements of an array
+// L24S09 - Getting the value
 //
-var names = ["Eric", "Donna", "Melanie", "Jessie", "Howard", "Tomasz"];
-names.reverse();
-gs.info(names.join(', '));
+var list = [];
+var incGr = new GlideRecord('incident');
+incGr.addQuery('priority', '1');
+incGr.query();
+
+while (incGr.next()) {
+    list.push(incGr.getValue('sys_id'));
+}
+
+gs.info('list=\n' + list.join('\n'));

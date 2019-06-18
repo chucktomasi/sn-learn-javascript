@@ -1,5 +1,5 @@
 //
-// Lab 6a: Lab 6a: Create a script to accept a table name and
+// Lab 6a: Create a script to accept a table name and
 // return a list records display values.
 // Hint: use GlideRecord.getDisplayValue()
 //

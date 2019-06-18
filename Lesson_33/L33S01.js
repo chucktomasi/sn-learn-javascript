@@ -21,7 +21,7 @@ person.prototype = {
       return this.firstName + ' ' + this.lastName;
     },
 
-    type: 'person'
+    type: person
 };
 
 var me = new person();

@@ -46,4 +46,5 @@ v1.info();
 
 var v2 = new car('2017', 'Honda', 'CR-V');
 v2.register();
+v2.findDealer();
 v2.info();

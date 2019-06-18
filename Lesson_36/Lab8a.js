@@ -1,5 +1,7 @@
 //
 // Lab 8a - Rebuild the previous lab as a scripted REST API
+//  Use Query parameters to accept the table name and limit
+//  Return the array of objects in the response body
 //
 // Get table record display values and sys_ids
 //

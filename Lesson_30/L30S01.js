@@ -2,9 +2,18 @@
 // L30S01 - Stringify and Parse
 //
 var bookList = [
-  {"title" : "Harry Potter and the Chamber of Secrets", "author" : "J.K. Rowling"},
-  {"title" : "Moby Dick", "author" : "Herman Melville"},
-  {"title" : "A Tale of Two Cities", "author" : "Charles Dickens"}
+  {
+    "title" : "Harry Potter and the Chamber of Secrets",
+    "author" : "J.K. Rowling"
+  },
+  {
+    "title" : "Moby Dick",
+    "author" : "Herman Melville"
+  },
+  {
+    "title" : "A Tale of Two Cities",
+    "author" : "Charles Dickens"
+  }
 ];
 gs.info(bookList); // That's not very helpful!
 

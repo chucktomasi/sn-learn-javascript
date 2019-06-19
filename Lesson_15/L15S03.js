@@ -6,7 +6,10 @@ var done = false;
 while (!done) {
   if (i < 5) {
     ++i;
+    gs.info(i + ' done=' + done);
     continue;
   }
+  gs.info('I think we are done');
   done = true;
 }
+gs.info(i);

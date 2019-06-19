@@ -5,5 +5,7 @@ var i = 0;
 while (true) {
   if (i == 5)
     break;
+  gs.info(i);
   ++i;
 }
+gs.info('done');

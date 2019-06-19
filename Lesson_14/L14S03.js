@@ -5,7 +5,7 @@
 // Take a look at strings
 //
 var string1;
-var string2 = null;;
+var string2 = null;
 var string3 = 'Hello, world!';
 gs.info('string1=' + ((string1) ? 'true' : 'false'));
 gs.info('string2=' + ((string2) ? 'true' : 'false'));

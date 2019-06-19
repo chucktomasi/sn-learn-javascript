@@ -1,5 +1,5 @@
 //
-// Solution for Lesson 8 Lab
+// Lab 3
 //
 // Create a three string variables.
 // Print the length of each string

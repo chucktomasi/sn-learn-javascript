@@ -8,7 +8,7 @@ if (valveOpen)
   openStatusString = 'open';
 else
   openStatusString = 'closed';
-  gs.info('1:: Valve is currently ' + openStatusString);
+  gs.info('1: Valve is currently ' + openStatusString);
 
 // Introducing a shortcut way...
 var openStatusString = (valveOpen) ? 'open' : 'closed';

@@ -12,6 +12,7 @@ Solutions to lab exercises can also be found in the *Lab Solutions* folder.
 
 * [Codecademy.com (JavaScript)](https://www.codecademy.com/catalog/language/javascript)
 * [W3Schools.com (Javascript)](https://www.w3schools.com/js/default.asp)
+* [Scaler Topics (JavaScript)](https://www.scaler.com/topics/javascript/)
 * [ServiceNow Developer Program](https://developer.servicenow.com)
 * [Scripting in ServiceNow Fundamentals](https://www.servicenow.com/services/training-and-certification/scripting-in-servicenow-training.html)
 * [ServiceNow Docs](https://docs.servicenow.com)
